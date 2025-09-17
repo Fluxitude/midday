@@ -1,25 +1,3 @@
-![hero](github.png)
-
-<p align="center">
-	<h1 align="center"><b>Midday</b></h1>
-<p align="center">
-    Run your business smarter
-    <br />
-    <br />
-    <a href="https://go.midday.ai/anPiuRx">Discord</a>
-    ·
-    <a href="https://midday.ai">Website</a>
-    ·
-    <a href="https://github.com/midday-ai/midday/issues">Issues</a>
-  </p>
-</p>
-
-<p align="center">
-  <a href="https://go.midday.ai/K7GwMoQ">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  </a>
-</p>
-
 ## About Midday
 
 Midday is an all-in-one tool designed to help freelancers, contractors, consultants, and solo entrepreneurs manage their business operations more efficiently. It integrates various functions typically scattered across multiple platforms into a single, cohesive system.
@@ -74,18 +52,3 @@ We are working on the documentation to get started with Midday for local develop
 - Mistral
 - Gemini
 - OpenAI
-
-## Repo Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/96aae855e5dd87c30d53c1d154b37cf7aa5a89b3.svg "Repobeats analytics image")
-
-## License
-
-This project is licensed under the **[AGPL-3.0](https://opensource.org/licenses/AGPL-3.0)** for non-commercial use. 
-
-### Commercial Use
-
-For commercial use or deployments requiring a setup fee, please contact us
-for a commercial license at [engineer@midday.ai](mailto:engineer@midday.ai).
-
-By using this software, you agree to the terms of the license.
